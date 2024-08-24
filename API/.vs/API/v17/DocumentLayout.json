@@ -3,76 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\ReStore\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\dto\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\migrations\\20240717162215_basketentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\migrations\\20240717162215_basketentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\migrations\\20240711053614_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\migrations\\20240711053614_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\orderaggregate\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\orderaggregate\\shippingaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\orderaggregate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\orderaggregate\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\orderaggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\orderaggregate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\extensions\\basketextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\extensions\\basketextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\dto\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\extensions\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\extensions\\orderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|c:\\users\\pc\\desktop\\restore\\api\\api\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4630BC-679C-4C32-9683-EFE55635269F}|API\\API.csproj|solutionrelative:api\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,226 +118,335 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasketItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\BasketItemDto.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\BasketItemDto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\BasketItemDto.cs",
-              "RelativeToolTip": "API\\DTO\\BasketItemDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "DocumentIndex": 8,
+              "Title": "ShippingAddress.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "RelativeToolTip": "API\\Entities\\OrderAggregate\\ShippingAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:44:54.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BasketDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\BasketDto.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\BasketDto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\BasketDto.cs",
-              "RelativeToolTip": "API\\DTO\\BasketDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T12:43:41.254Z"
+              "WhenOpened": "2024-08-10T06:05:08.911Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "API\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T02:49:52.3Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T10:07:21.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240717162215_BasketEntityAdded.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\Migrations\\20240717162215_BasketEntityAdded.cs",
-              "RelativeDocumentMoniker": "API\\Data\\Migrations\\20240717162215_BasketEntityAdded.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\Migrations\\20240717162215_BasketEntityAdded.cs",
-              "RelativeToolTip": "API\\Data\\Migrations\\20240717162215_BasketEntityAdded.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwCEAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T16:22:24.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StoreContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\Migrations\\StoreContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "API\\Data\\Migrations\\StoreContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\Migrations\\StoreContextModelSnapshot.cs",
-              "RelativeToolTip": "API\\Data\\Migrations\\StoreContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:58:33.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240711053614_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\Migrations\\20240711053614_InitialCreate.cs",
-              "RelativeDocumentMoniker": "API\\Data\\Migrations\\20240711053614_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\Migrations\\20240711053614_InitialCreate.cs",
-              "RelativeToolTip": "API\\Data\\Migrations\\20240711053614_InitialCreate.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:54:09.469Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\BasketItem.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\BasketItem.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\BasketItem.cs",
-              "RelativeToolTip": "API\\Entities\\BasketItem.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:29:17.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Basket.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Basket.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\Basket.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Basket.cs",
-              "RelativeToolTip": "API\\Entities\\Basket.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:27:28.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
               "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T05:11:39.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwCwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T05:05:22.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BuggyController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BuggyController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BuggyController.cs",
-              "RelativeToolTip": "API\\Controllers\\BuggyController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA5wB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T16:52:54.88Z",
+              "WhenOpened": "2024-08-17T10:07:34.195Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T03:08:20.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T05:38:57.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BaseApiController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "API\\Controllers\\BaseApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAApwCgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T16:49:09.604Z",
+              "WhenOpened": "2024-08-12T08:14:19.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T15:57:58.526Z"
+              "DocumentIndex": 7,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "API\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAlwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:25:22.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\StoreContext.cs",
-              "RelativeDocumentMoniker": "API\\Data\\StoreContext.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\StoreContext.cs",
-              "RelativeToolTip": "API\\Data\\StoreContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "API\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAlwEUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T05:00:34.889Z"
+              "WhenOpened": "2024-08-19T03:50:45.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "API\\Data\\DbInitializer.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\DbInitializer.cs",
               "RelativeToolTip": "API\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAARAAAA",
+              "ViewState": "AQIAAOAAAAAAAAAAAAApwPEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T05:02:54.332Z"
+              "WhenOpened": "2024-08-12T04:34:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Data\\StoreContext.cs",
+              "RelativeToolTip": "API\\Data\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T17:17:40.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:49:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\OrderAggregate\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\OrderStatus.cs",
+              "RelativeToolTip": "API\\Entities\\OrderAggregate\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:12:20.771Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Product.cs",
-              "RelativeToolTip": "API\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Basket.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Basket.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Basket.cs",
+              "RelativeToolTip": "API\\Entities\\Basket.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIBJwAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T04:59:50.899Z"
+              "WhenOpened": "2024-08-17T10:11:57.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\OrderAggregate\\Order.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "API\\Entities\\OrderAggregate\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:38:37.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:33:33.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Services\\TokenService.cs",
+              "RelativeToolTip": "API\\Services\\TokenService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIBJwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:57:30.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Address.cs",
+              "RelativeToolTip": "API\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:51:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Services\\PaymentService.cs",
+              "RelativeToolTip": "API\\Services\\PaymentService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:21:16.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "API\\DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:09:04.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\User.cs",
+              "RelativeToolTip": "API\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:00:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\OrderAggregate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\OrderItem.cs",
+              "RelativeToolTip": "API\\Entities\\OrderAggregate\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:30:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "RelativeToolTip": "API\\Entities\\OrderAggregate\\ProductItemOrdered.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:08:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserAddress.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\UserAddress.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\UserAddress.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\UserAddress.cs",
+              "RelativeToolTip": "API\\Entities\\UserAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:49:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Entities\\Role.cs",
+              "RelativeToolTip": "API\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:54:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "API\\DTO\\OrderDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBQwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:17:13.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BasketExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Extensions\\BasketExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\BasketExtensions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Extensions\\BasketExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\BasketExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:10:23.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\BasketDto.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\BasketDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\BasketDto.cs",
+              "RelativeToolTip": "API\\DTO\\BasketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:55:59.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Extensions\\OrderExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\OrderExtensions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\Extensions\\OrderExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\OrderExtensions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:23:31.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ReStore\\API\\API\\DTO\\OrderItemDto.cs",
+              "RelativeToolTip": "API\\DTO\\OrderItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:17:25.159Z"
             }
           ]
         }

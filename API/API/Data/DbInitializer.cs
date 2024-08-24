@@ -1,12 +1,38 @@
 ﻿using API.Entities;
+using Microsoft.AspNetCore.Identity;
 
 
 namespace API.Data
 {
     public class DbInitializer
     {
-        public static void Initialize(StoreContext context)
+        public static async Task Initialize(StoreContext context, UserManager<User> userManager)
         {
+            //membuat user baru bersama dengan rolenya
+            //CreateAsync sudah otomatis menyimpan perubahan ke database
+            //jadi tidak perlu lagi menggunakan saveChanges
+            if (!userManager.Users.Any())
+            {
+                var user = new User
+                {
+                    UserName = "bob",
+                    Email = "bob@test.com"
+                };
+                await userManager.CreateAsync(user, "Pa$$w0rd");
+                await userManager.AddToRoleAsync(user, "Member");
+
+                var admin = new User
+                {
+                    UserName = "admin",
+                    Email = "admin@test.com"
+                };
+                await userManager.CreateAsync(admin, "Pa$$w0rd");
+                await userManager.AddToRolesAsync(admin, new[] { "Member", "Admin" });
+            }
+
+            //Jika products sudah ada di database maka return kosong
+            //Jika belum ada maka products akan ditambahkan ke database
+            //bisa dilihat pada kode dibawah
             if (context.Products.Any()) return;
 
             var products = new List<Product>
@@ -208,7 +234,7 @@ namespace API.Data
                     QuantityInStock = 100
                 },
             };
-
+           
             foreach (var product in products)
             {
                 context.Products.Add(product);
